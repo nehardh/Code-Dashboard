@@ -1,0 +1,20 @@
+{
+  "name": "codezon",
+  "version": "1.0.0",
+  "description": "CodeHub\r CodeHub is a centralized platform for developers and students to enhance their coding journey. It integrates profiles from various coding platforms, provides a heatmap dashboard to track activity, offers level-based question-solving interfaces, and fosters collaboration within a vibrant coding community.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^4.21.2",
+    "express-ejs-layouts": "^2.5.1",
+    "method-override": "^3.0.0",
+    "mongoose": "^8.9.0",
+    "nodemon": "^3.1.9"
+  }
+}
